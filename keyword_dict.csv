@@ -1,0 +1,133 @@
+Keyword,Category
+home,home
+house,home
+any time,any age
+any age,any age
+kindergart,kindergarten
+first grade,1st grade
+1st grade,1st grade
+second grade,2nd grade
+2nd,2nd grade
+3rd,3rd grade
+third,3rd grade
+4th,4th grade
+fourth,4th grade
+5th,5th grade
+fifth,5th grade
+6th,6th grade
+sixth,6th grade
+7th,7th grade
+seventh,7th grade
+8th,8th grade
+eighth,8th grade
+9th,9th grade
+ninth,9th grade
+10th,10th grade
+tenth,10th grade
+11th,11th grade
+eleventh,11th grade
+12th,12th grade
+twelth,12th grade
+freshman,9th
+sophomore,10th
+junior,11th
+senior,12th
+late high school,12th
+end of high school,12th
+teenage,teenage
+teenager,teenage
+late teens,late teens
+double digits,double digits
+middle school,middle school
+junior high,middle school
+high school,high school
+married,marriage
+marriage,marriage
+never,never
+absolutely not,never
+not okay,never
+not appropriate,never
+no age,never
+at all,never
+not any age,never
+college,college
+graduate school,grad school
+grad school,grad school
+puberty,puberty
+legal age,legal age
+adult,adult
+20s,20s
+twenties,20s
+mid 20s,mid20s
+midtwenties,mid20s
+mid twenties,mid20s
+mid20s,mid20s
+three,3
+\\b3\\b,3
+\\b4\\b,4
+\\bfour\\b,4
+\\b5\\b,5
+five,5
+\\b6\\b,6
+\\bsix\\b,6
+\\b7\\b,7
+\\bseven\\b,7
+\\b8\\b,8
+\\beight\\b,8
+\\b9\\b,9
+\\bnine\\b,9
+\\b10\\b,10
+\\bten\\b,10
+\\b11\\b,11
+\\beleven\\b,11
+\\b12\\b,12
+twelve,12
+\\b13\\b,13
+thirteen,13
+\\b14\\b,14
+fourteen,14
+\\b15\\b,15
+fifteen,15
+\\b16\\b,16
+sixteen,16
+\\b17\\b,17
+seventeen,17
+\\b18\\b,18
+eighteen,18
+\\b19\\b,19
+nineteen,19
+\\b20\\b,20
+\\btwenty\\b,20
+\\b21\\b,21
+twentyone,21
+twenty one,21
+\\b22\\b,22
+twentytwo,22
+twenty two,23
+\\b23\\b,23
+twentythree,23
+twenty three,23
+\\b24\\b,24
+twentyfour,24
+twenty four,24
+\\b25\\b,25
+twentyfive,25
+twenty five,25
+\\b26\\b,26
+twentysix,26
+twenty six,26
+\\b27\\b,27
+twentyseven,27
+twenty seven,27
+\\b28\\b,28
+twentyeight,28
+twenty eight,28
+\\b29\\b,29
+twentynine,29
+twenty nine,29
+\\b30\\b,30
+thirty,30
+\\b40\\b,40
+forty,40
+\\b50\\b,50
+fifty,50
