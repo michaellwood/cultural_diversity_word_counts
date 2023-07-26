@@ -172,7 +172,7 @@ dp <- ggplot(d_long) +
   theme_minimal()+
   labs(title = "Diversity Profiles for Each Topic\n",
        y="Effective Number of Age Periods\n",
-       x="\nValue of Q")+
+       x="\nValue of"~italic(q)~"")+
   scale_colour_gradient2(
     midpoint = 3.5,
     low = "white",
@@ -191,7 +191,7 @@ dp
 
 
 #Export Plot
-jpeg("Diversity_Profiles_20220701.jpg", units="in", width=11, height=8.5, res=400,quality=100)
+jpeg("Diversity_Profiles_20230726.jpg", units="in", width=11, height=8.5, res=400,quality=100)
 dp
 dev.off()
 
